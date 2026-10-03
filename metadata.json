@@ -1,0 +1,6 @@
+{
+  "name": "Мои смены",
+  "description": "Календарь смен и учёт выработки деталей с автоматическим расчётом дохода.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
